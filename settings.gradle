@@ -1,0 +1,3 @@
+rootProject.name='LocationExample'
+include ':app'
+include ':locationlib'
